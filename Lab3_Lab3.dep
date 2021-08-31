@@ -1,0 +1,5 @@
+Dependencies for Project 'Lab3', Target 'Lab3': (DO NOT MODIFY !)
+CompilerVersion: 5060960::V5.06 update 7 (build 960)::.\ARMCC
+F (.\Startup.s)(0x521A8040)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Lab3-IC:\Keil_v5\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\startup.lst --xref -o .\startup.o --depend .\startup.d)
+F (.\main.s)(0x60401171)(--cpu Cortex-M4 --pd "__EVAL SETA 1" -g --apcs=interwork -I.\RTE\_Lab3-IC:\Keil_v5\ARM\CMSIS\5.7.0\CMSIS\Core\Include-IC:\Keil_v5\Keil\TM4C_DFP\1.1.0\Device\Include\TM4C123--pd "__UVISION_VERSION SETA 533" --pd "_RTE_ SETA 1" --pd "TM4C123GH6PM SETA 1" --pd "_RTE_ SETA 1"--list .\main.lst --xref -o .\main.o --depend .\main.d)
+F (.\texas.o)(0x5403712E)()
